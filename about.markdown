@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Привет!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Меня зовут Никита и я разрабатываю под Unity. Занимаюсь я этим не так давно: с 29 июня 2021 года.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Что бы как то отслеживать и укреплять свой прогресс был создан этот блог.
 
+В планах обновлять его еженедельно материалами о Unity и более общих вещах, например алгоритмах.
 
-[jekyll-organization]: https://github.com/jekyll
+Мне можно написать на почту: <grishaev.nk@gmail.com> или в телеграм: [@dw_duck](https://t.me/dw_duck)
