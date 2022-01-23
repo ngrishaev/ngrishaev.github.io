@@ -121,5 +121,8 @@ editorWindow.Repaint();
 ```
 
 Заново рендерим окно. Нужно, что бы изменения на нем отобразились, без этого кнопка замка, отображающая статус блокировки, не будет менять свой статус.
+Дополнительные ссылки:
+- [Unity - Scripting API: MenuItem](https://docs.unity3d.com/ScriptReference/MenuItem.html)
+- [Unity - Scripting API: MenuItem Constructor](https://docs.unity3d.com/ScriptReference/MenuItem-ctor.html)
 
 <small>Проверено на Unity 2020.3.12.f1.</small>
