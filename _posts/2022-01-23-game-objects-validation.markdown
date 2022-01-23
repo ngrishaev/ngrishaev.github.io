@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Валидация GameObject'ов из меню Unity"
-date:   2022-01-15 00:00:00 +0300
+date:   2022-01-23 00:00:00 +0300
 categories: jekyll update
 ---
 <small>По материалам курса K-Syndicate: Advanced Unit Testing In Unity [https://lms.k-syndicate.school/unittesting/](https://lms.k-syndicate.school/unittesting/)</small>
