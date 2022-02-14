@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Устанавливаем Unity packages из tarball (tar, tgz) файлов"
+title: Устанавливаем Unity packages из tarball (tar, tgz) файлов
 date:   2022-02-14 00:00:00 +0000
 categories: jekyll update
 ---
