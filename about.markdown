@@ -12,4 +12,4 @@ permalink: /about/
 
 В планах обновлять его еженедельно материалами о Unity и более общих вещах, например алгоритмах.
 
-Мне можно написать на почту: <grishaev.nk@gmail.com> или в телеграм: [@dw_duck](https://t.me/dw_duck)
+Мне можно написать на почту: <grishaev.nk@gmail.com> или в телеграм: [@dw_duck49](https://t.me/dw_duck)
